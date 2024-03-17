@@ -1,4 +1,4 @@
-Voice Data (JP, Special Page Ver)
+Voice Data (JP, Ver.2.1 Special Page)
 
 for one's own use
 
