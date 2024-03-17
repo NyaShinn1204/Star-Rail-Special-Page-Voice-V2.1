@@ -3,7 +3,8 @@ Voice Data (JP, Special Page Ver)
 for one's own use
 
 
-
+### 🤔 What "audio_files"?
+Downloaded mp3s are included.
 
 ### 📜 Info
 
