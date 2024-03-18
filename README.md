@@ -4,7 +4,7 @@ for one's own use
 
 
 ### 🤔 What "audio_files"?
-Downloaded mp3s are included.
+Downloaded mp3 are included.
 
 ### 📜 Info
 
